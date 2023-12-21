@@ -8,17 +8,17 @@
 #### 2. How can your insights drive business decisions?
   My insights and recommendations will guide CoffeeKing to adopt highly-rated restaurant features and attract additional customers.
 
-#### Questions
-  1- What are the fundamental features a restaurant
+#### 3.Questions
+  i- What are the fundamental features a restaurant
   must have to achieve success (high rating)?
-  3- What are the specific types of food that successful
+  ii- What are the specific types of food that successful
   restaurants specialize in?
 
-#### Hypotheses
-  1- Pay with credit card, Wi-Fi, long open hours and
+#### 4.Hypotheses
+  i- Pay with credit card, Wi-Fi, long open hours and
   suitable for kids are essential features in successful
   restaurant.
-  2- Most successful restaurants specialize in burgers and
+  ii- Most successful restaurants specialize in burgers and
   pizza.
 
 #### A summary of the different descriptive statistics you looked at.
@@ -30,3 +30,5 @@ I  have worked with a comprehensive dataset that contains a vast array of featur
 - This case study is part of Learn SQL Basics for Data Science Certificate- University of California, Davis
 - CoffeeKing is an imaginary name used to facilitate explanation.
 - Due to privacy concerns, the source code is not included.
+- Due to Github's file size restriction source data is not uploaded. You can download it via Google Drive 
+    https://drive.google.com/drive/folders/1ooPgeOKjg4CYAO04t85By5uEBIxHhKjS?usp=sharing
