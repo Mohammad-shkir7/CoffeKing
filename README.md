@@ -10,14 +10,14 @@
 
 #### 3.Questions
   i- What are the fundamental features a restaurant
-  must have to achieve success (high rating)?
+  must have to achieve success (high rating)?<br>
   ii- What are the specific types of food that successful
   restaurants specialize in?
 
 #### 4.Hypotheses
   i- Pay with credit card, Wi-Fi, long open hours and
   suitable for kids are essential features in successful
-  restaurant.
+  restaurant.<br>
   ii- Most successful restaurants specialize in burgers and
   pizza.
 
